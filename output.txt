@@ -1,0 +1,40 @@
+  762 Macbeth
+  274 Lady Macbeth
+  215 Malcolm
+  186 Macduff
+  143 Ross
+  123 Banquo
+   89 Lennox
+   83 First Witch
+   72 Duncan
+   53 Hecate
+   53 Porter
+   48 Second Witch
+   48 Third Witch
+   45 Doctor
+   42 Lady Macduff
+   35 Sergeant
+   31 First Murderer
+   31 Siward
+   27 Angus
+   24 Gentlewoman
+   23 Messenger
+   21 Lord
+   20 Son
+   18 Third Apparition
+   17 Second Apparition
+   15 First Apparition
+   15 Second Murderer
+   12 Donalbain
+   12 Menteith
+   11 Caithness
+   11 Old Man
+    8 Third Murderer
+    7 Young Siward
+    5 Seyton
+    5 Servant
+    3 Lords
+    2 Both Murderers
+    2 Fleance
+    1 Attendant
+    1 Soldiers
